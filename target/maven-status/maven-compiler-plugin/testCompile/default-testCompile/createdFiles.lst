@@ -1,0 +1,8 @@
+uiAutomation/pages/google/MainPage.class
+uiAutomation/pages/google/ResultPage.class
+uiAutomation/tests/search/YahooSearchTest.class
+uiAutomation/pages/yahoo/ResultPage.class
+uiAutomation/tests/search/GoogleSearchTest.class
+uiAutomation/pages/yahoo/MainPage.class
+uiAutomation/BaseTest$1.class
+uiAutomation/BaseTest.class
